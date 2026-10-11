@@ -1,0 +1,7 @@
+{
+  "name": "Maktab Test BSB & CHSB",
+  "description": "Maktab o'quvchilari uchun barcha fanlardan 4 ta chorak bo'yicha BSB va CHSB onlayn test tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
